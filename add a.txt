@@ -1,0 +1,17 @@
+[33mcommit 73ce35501d71e295c3c1a82133867857f077a3f5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: KeonHo SEO <jjkkgh123@naver.com>
+Date:   Thu Jul 11 12:18:55 2024 +0900
+
+    update a.txt
+
+[33mcommit c61244321ea6a9b0d35b9d4fe104502a153d3ae6[m
+Author: KeonHo SEO <jjkkgh123@naver.com>
+Date:   Thu Jul 11 12:17:08 2024 +0900
+
+    add b.txt
+
+[33mcommit 8c29deb4dd730f8401c66d4ba769fd1596135886[m
+Author: KeonHo SEO <jjkkgh123@naver.com>
+Date:   Thu Jul 11 12:16:02 2024 +0900
+
+    add a.txt
